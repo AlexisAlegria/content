@@ -1,3 +1,4 @@
+![screenshot](https://user-images.githubusercontent.com/83029762/131570696-49d972e9-32b5-4bb9-a4c7-6e022c411adb.jpg)
 ---
 title: "How to use GIT: Version Control System"
 subtitle: "Learn how to use GIT with an interactive tutorial, video and great article. Without GIT you won't be able to work at any company, and you won't be able to use anyone's code."
